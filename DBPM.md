@@ -29,20 +29,15 @@ We will use the total effort in aggregated form, across gears. We are planning t
 To spatially allocate effort (E) at each time step (t) for each sector (s) within LMEs to grid-cells (g), we will spread effort out in proportion to the total biomass, in the previous time step (t-1), of each grid cell relative to the biomass summed across all grid cells for each LME (and above the minimum size selected, 10 grams?) :
 
 \
-E~sgt~=$\frac{Bgt-1}{$\sum$Bt-1} * Est$
-
-\
-\
+$$Esgt=\frac{Bgt-1} {\sum$Bt-1} * Est$$
 
 For the artisanal sector,  we additionally limit to the grid cells with depths of \< 100 or 200m [check gridded map of artisanal effort to work out what the max depth is, could do this by LME or just a single global max depth?], and excluding high seas LME = 0.
 
 This gives us the total effort of each sector in each grid cell, within an LME.
 
-To further allocate effort to each functional group in the model (see below), we similarly spread across functional groups within each grid cell as follows: 
+To further allocate effort to each functional group in the model (see below), we similarly spread across functional groups within each grid cell as follows: \
 
-\
-
-E~fsgt~= $\frac{Bfgt-1 }{\sumBgt-1 }* Esgt$
+E~fsgt~= $\frac{Bfgt-1 }{{\sum}Bgt-1 }* Esgt$
 
 **Levels of functional group disaggregation**
 
@@ -98,6 +93,8 @@ N/A\
 
 [Please provide a summary of the metrics and results associated with your model calibration - E.g. RMSE with observed catches and any other process-based or theoretical criteria used to calibrate the model, comparison of modelled biomass, growth rates, P"B ratios etc]
 
+N/A
+
 **Model changes or  improvements(s) made as a result of calibration**
 
 [Please provide detail of any other parameters or model changes since the last round as a result of this calibration]
@@ -108,6 +105,8 @@ N/A\
 **Downscaling method**
 
 [Please describe further details how the LME level fishing effort was downscaled to your region, providing further information on what data, if any were used, E.g. ]
+
+N/A
 
 **The "base" year range of the regional model**
 
