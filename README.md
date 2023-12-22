@@ -16,6 +16,8 @@ Model template - blank markdown document to be copied and populated. See below d
 
 ### APECOSM model
 
+### [BOATS model](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/BOATS.md)
+
 ### [DBEM model](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/dbem.md)
 
 ### [Dynamic Benthic Pelagic model](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/DBPM.md)
@@ -29,14 +31,6 @@ Model template - blank markdown document to be copied and populated. See below d
 ### Macroecological model
 
 ### ZOOMS model
-
-### 
-
-### 
-
-### 
-
-### [BOATS model](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/BOATS.md)
 
 ## Have questions or suggestions?
 
