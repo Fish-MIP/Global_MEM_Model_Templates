@@ -14,15 +14,15 @@ If you are interested in contributing simulations with your regional model to Fi
 
 Model template - blank markdown document to be copied and populated. See below documents filled out for each model type and domain:
 
-### FEISTY models
+### [FEISTY models](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/FEISTY.md)
 
-### EcoOcean models
+### [EcoOcean models](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/EcoOcean.md)
 
-### Dynamic Benthic Pelagic models
+### [Dynamic Benthic Pelagic models](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/DBPM.md)
 
-### DBEM models
+### [DBEM models](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/dbem.md)
 
-### BOATS models
+### [BOATS models](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/BOATS.md)
 
 ## Have questions or suggestions?
 
