@@ -12,9 +12,7 @@ Global at ¼ and 1 degree
 
 **Levels of gear disaggregation**
 
-14 fleets (Lines Non-tuna, Longline Non-tuna, Trap, Dredge, Trawl, Trawl Shrimp, Trawl midwater, Seine, Purse seine Non-tuna, Gillnet, Pole and Line Tuna, LonglineTuna, Purse seine Tuna, 
-
-Other)
+14 fleets (Lines Non-tuna, Longline Non-tuna, Trap, Dredge, Trawl, Trawl Shrimp, Trawl midwater, Seine, Purse seine Non-tuna, Gillnet, Pole and Line Tuna, LonglineTuna, Purse seine Tuna, Other)
 
 **Levels of functional group disaggregation**
 
@@ -28,17 +26,25 @@ Simple fishing effort gravity model based on cost/benefit analysis
 
 [How are fishing mortality and catch rates calculated in your model? Please provide equations as well as description]
 
+N/A
+
 **Selectivity (size,age,species)**
 
 [If you have a selectivity term please describe it, with equation]
+
+N/A
 
 **Model calibration**
 
 [Catchability terms can be used to calibrate the model to catches, using data ONLY UP TO 2004. Please state how you estimate these parameters and the metrics and criteria you use to calibrate your model. Please provide details and equations]
 
+N/A
+
 **Catchability and Creep (yearly rate of change catchability) Estimates**
 
 [Please provide details on the specific estimated parameters from the calibration, e.g. range of creep of 2-5% per year; and catchability coefficients per gear / functional group as necessary]
+
+N/A
 
 **Further details on calibration**
 
@@ -71,3 +77,5 @@ N/A\
 **The "base" year range of the regional model**
 
 [If you expressed effort relative to the effort in your base model, which year was the base year and how was this done]
+
+N/A

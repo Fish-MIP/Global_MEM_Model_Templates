@@ -21,13 +21,13 @@ Global, ¼ and 1 degree model runs
 
 Summed effort for all gears with no disaggregation for v1.
 
-Disaggregation between \"pelagic\" and \"demersal\" gears for v2 (list to specify).
+Disaggregation between "pelagic" and "demersal" gears for v2 (list to specify).
 
 **Levels of functional group disaggregation**
 
 Summed effort for all functional groups with no disaggregation for v1.
 
-Disaggregation between \"pelagic\" and \"demersal\" functional groups for v2 (list to specify).
+Disaggregation between "pelagic" and "demersal" functional groups for v2 (list to specify).
 
 **Spatial grid-cell allocation method**
 
@@ -49,7 +49,7 @@ With *q^t^* the catchability creep parameter (in m^2^/W/s, see following section
 
 **Selectivity (size,age,species)**
 
-The consumer biomass available to fishing is modelled for individuals from m = 10 to 105g as a function of individuals\' size. The selectable biomass for fishing is determined by a sigmoidal curve:
+The consumer biomass available to fishing is modelled for individuals from m = 10 to 105g as a function of individuals' size. The selectable biomass for fishing is determined by a sigmoidal curve:
 
 $$f^t_{select,g} = \int^{10^5}_{10} ((1 + (m/m_{\theta,g}))^{c_\sigma/\delta})^-1 f^t_gdm $$
 
@@ -93,7 +93,7 @@ For the present calibration procedure, food-web parameters have been estimated w
 
 **Statistical metrics**
 
-The metrics for simulation optimization and best parameter selection have been applied on dynamic coupled ecological-economical simulations of Boats (see section \"Model Calibration\"). For this round of simulation we adjusted the historical development of catchability such that simulated catches in LMEs reached a maximum in the 1990s, as in observation. This adjustment only affects simulations including fishing.
+The metrics for simulation optimization and best parameter selection have been applied on dynamic coupled ecological-economical simulations of Boats (see section "Model Calibration"). For this round of simulation we adjusted the historical development of catchability such that simulated catches in LMEs reached a maximum in the 1990s, as in observation. This adjustment only affects simulations including fishing.
 
 **Statistical results (summary)**
 
@@ -111,7 +111,7 @@ Spatial variability of LME peak catches : v1, v2 ??
 
 ???
 
-**Model changes or  improvements(s) made as a result of calibration**
+**Model changes or improvements(s) made as a result of calibration**
 
 N/A
 
@@ -121,6 +121,6 @@ N/A
 
 N/A
 
-**The \"base\" year range of the regional model**
+**The "base" year range of the regional model**
 
 N/A
