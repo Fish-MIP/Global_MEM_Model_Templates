@@ -14,15 +14,15 @@ If you are interested in contributing simulations with your regional model to Fi
 
 Model template - blank markdown document to be copied and populated. See below documents filled out for each model type and domain:
 
-### Atlantis models
+### FEISTY models
 
-### Ecosim models
+### EcoOcean models
 
-### Ecospace models
+### Dynamic Benthic Pelagic models
 
-### mizer models
+### DBEM models
 
-### OSMOSE models
+### BOATS models
 
 ## Have questions or suggestions?
 
