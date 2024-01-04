@@ -51,7 +51,7 @@ With *q^t^* the catchability creep parameter (in m^2^/W/s, see following section
 
 The consumer biomass available to fishing is modelled for individuals from m = 10 to 105g as a function of individuals' size. The selectable biomass for fishing is determined by a sigmoidal curve:
 
-$$f^t_{select,g} = \int^{10^5}_{10} ((1 + (m/m_{\theta,g}))^{c_\sigma/\delta})^-1 f^t_gdm $$
+$$f^t_{select,g} = \int^{10^5}_{10} ((1 + (m/m_{\theta,g}))^{c_\sigma/\delta})^-1 f^t_gdm$$
 
 Where $f^t_g$ (in gwB/m^2^/g) is the consumer biomass spectrum, c the selectivity slope, a mass to length conversion constant, and m the inflection point of the sigmoidal curve set as respectively dg = 100/50/25% of the maturation size m, g for small/medium/large species groups g, modulated by a tuning parameter em(in [0.5,1.5]):
 
