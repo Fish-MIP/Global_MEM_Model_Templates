@@ -63,7 +63,7 @@ For both v1 and v2 boats versions, the ecological module that determines the bio
 
 Parameters of v1 are determined selecting a set of best parameters from an ensemble of 10000 coupled simulations (see Carozza et al. 2017) such that these coupled simulations: (i) match global LME peak harvest (110+/-40 10^12^ gwB/y); (ii) to have a plausible size structure of catches near simulated peak (i.e. H^glob^~m~\>0.3 H^glob^~s~,0.8 Hglobs\>H^glob^~l~\>0.1 H^glob^~s~); (iii) to have a plausible catch per unit biomass ratio in LMEs (i.e. C/B\<0.4 y^-1^); (iv) to have an optimum representation of LME peak catches (i.e. selecting best coefficient of determinations of the observed vs simulated LME peak catches). We use the 5 best sets of parameters selected with (i to iv) to parameterize our historical simulations. We present and report the average of these 5 ensembles.
 
-Parameters of v2 are determined (to complete)\...
+Parameters of v2 are determined (to complete)...
 
 The parameterization of v1 and v2 relies on a dynamic development of fishing effort. For the present historical simulations, we adjust the catchability creep parameter qt (in m^2^/W/s, see following section) such that forced effective effort (q^t^E^t^dt) at LME peak in the 1990s matches effective effort at peak in the coupled simulations.
 
