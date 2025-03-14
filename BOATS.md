@@ -73,7 +73,7 @@ and then specified independent $q_0$ parameters assuming $q^{Peak}_2 = q^{1995}$
 
 Note that following this tuning procedure our simulations overall underestimate the observed catches in LMEs (compare observation with simulation Fig. 1a,b), we suggest that the mismatch of forced effort with productive regions (as opposed to the dynamic simulation where effort develops in most productive regions) leads to an underestimation of fishing yields. Forcing the model with gridded effort, instead of effort aggregated at LME level, further contributes to this mismatch thus amplifying the catch underestimation (compare Fig. 1a and 1c).
 
-![](BOATSimage.jpeg)
+![](figures/BOATSimage.jpeg)
 
 Figure 1: Observed and simulated catches. (a) First round of simulation with effort aggregated at LME level and matching observed and simulated effective effort in the 1990s. (b) Second round of simulation with effort aggregated at LME level and fine tuning the catchability to best match LME catch peak. (c) Simulation (a) forced with gridded effort instead of effort aggregated at LME level. In panels a-c, the dotted lines are observations, the plain lines are mean catches from 5 independent simulations with 5 separate optimised parameter sets, and the shaded area the +/-1SD of estimated from the 5 simulations. Panels a-c, in blue the LME level catches and green the global catches. 
 
@@ -86,7 +86,7 @@ The metrics for simulation optimization and best parameter selection have been a
 # Statistical results (summary)
 Following are a few additional metrics to assess simulations. They have not been used in the tuning.
 
-![](BOATSimage2.jpeg)
+![](figures/BOATSimage2.jpeg)
 
 Figure 2: Observed vs. simulated variability of LME level catches near global catch peak of the 1990s. For both, simulation forced with obsclim (in red), and simulation forced with ctrlclim (in black), r2 = 0.62. Numbers indicate LMEs as in Carozza et al. 2017.
 
