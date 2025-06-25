@@ -7,6 +7,9 @@ Secondary contact: Daniel van Denderen [pdvd\@aqua.dtu.dk](mailto:pdvd@aqua.dtu.
 Other: Ken H. Andersen [kha\@aqua.dtu.dk](mailto:kha@aqua.dtu.dk)  
 Other: Charles Stock [charles.stock\@noaa.gov](mailto:charles.stock@noaa.gov)  
 
+# Model ecology overview
+MACROECOLOGICAL represents all heterotrophic animal biomass from 1gm – 1 tonne as a static size-spectrum. Total production at any animal body size w is determined by primary production, temperature, the number of trophic levels between the median phytoplankton size and a given animal body size, and trophic transfer efficiency. Total biomass at any given size is determined by total production at that size, divided by the mass-specific production rate (which implicitly includes both somatic growth and respiration), which is a function of temperature and body size.
+
 # Spatial scale forcing
 Global $0.25^{\circ}$ and $1^{\circ}$ model runs
 
