@@ -7,6 +7,9 @@ K. Scherrer (kim.jn.scherrer\@gmail.com)
 D. Bianchi (dbianchi\@atmos.ucla.edu)  
 E. Galbraith (eric.d.galbraith\@gmail.com  
 
+# Model ecology overview
+BOATS is a dynamic size-spectrum model representing all commercial animal biomass from 10g – 100kg. Animals are grouped into three size-spectra, each starting at 10gm, but with differing asymptotic sizes. Animals in each size spectra grow from the smallest size class up to their group’s asymptotic size, reproduce, respire biomass and die through time. In each size class, animal biomass evolves through time as a balance between growth (and recruitment from reproduction in the smallest size class) less mortality losses. 
+
 # Spatial scale forcing
 Global, $0.25^{\circ}$ and $1^{\circ}$ model runs
 
