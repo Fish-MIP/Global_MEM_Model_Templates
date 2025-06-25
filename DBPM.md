@@ -6,6 +6,11 @@ Julia Blanchard - [julia.blanchard\@utas.edu.au](mailto:julia.blanchard@utas.edu
 Camilla Novaglio - [camilla.novaglio\@utas.edu.au](mailto:camilla.novaglio@utas.edu.au)  
 Ryan Heneghan - [r.heneghan\@qut.edu.au](mailto:r.heneghan@qut.edu.au)  
 
+# Model ecology overview
+The Dynamic Benthic-Pelagic Model (DBPM) is a dynamic size-spectrum model that resolves benthic and pelagic animal biomass from 1mg to 1 tonne, as well as the energetic pathways that link benthic and pelagic systems (Blanchard et al., 2012, 2009) . Energy moves from small to large size classes through the size-dependent process of predation-fuelled growth. Energy is lost from the system due to inefficiencies in predators converting prey biomass into new predator biomass, and mortality. 
+
+At the base of the food chain, small and large phytoplankton carbon biomass define the producer size-spectrum, which provides food for small benthic and pelagic consumers. Less phytoplankton biomass means less food for small consumers, decreasing their biomass, which in turn decreases the biomass of larger consumers. At the same time, as phytoplankton biomass decreases, the proportion of total producer biomass that is comprised of small phytoplankton increases. As small phytoplankton biomass increases, the average number of trophic steps between a consumer of a given size and producers increases, which equates to more trophic steps between producer and consumer, and thus lower consumer biomass due to trophic inefficiency. Finally, temperature affects the balance between energy acquisition through feeding, and energy dissipation through mortality. These processes scale with temperature (T;°C) using an Arrhenius scaling.
+
 # Spatial scale forcing
 *For example, scale: global or region, resolution: $`0.25^{\circ}`$ and $`1^{\circ}`$ model runs.*
 
