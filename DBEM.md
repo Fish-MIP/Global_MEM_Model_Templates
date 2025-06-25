@@ -5,6 +5,9 @@ DBEM
 William Cheung
 Juliano Palacios Anrantes
 
+# Model ecology overview
+The Dynamic Bioclimate Envelope Model (DBEM) is a dynamic mechanistic species distribution model comprised of two main components (i) species habitat suitability and (ii) population dynamics. 
+
 # Spatial scale forcing
 Global at $0.5^{\circ}$ and $1^{\circ}$
 
