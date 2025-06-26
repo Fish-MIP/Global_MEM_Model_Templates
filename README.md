@@ -8,7 +8,7 @@ If you are interested in contributing simulations with your global model to Fish
 
 ## Table of contents
 
-Model template - blank markdown document to be copied and populated. See below documents filled out for each model type and domain:
+Model template - create an [issue](https://github.com/Fish-MIP/Global_MEM_Model_Templates/issues) and select the Blank Model Template to be filled in. See below documents filled out for each model type and domain:
 
 ### [APECOSM](https://github.com/Fish-MIP/Global_MEM_Model_Templates/blob/main/APECOSM.md) 
 More details available soon.
